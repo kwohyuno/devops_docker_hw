@@ -1,3 +1,12 @@
+#Made Dockerfile in Backend
+#Made Dockerfile in Frontend
+#Made docker-compose file in root directory 
+#Now you can build and run the containers with the command "docker-compose up --build -d"
+
+
+
+
+
 # Lama Book Shop CRUD Web Application
 
 <h4><i>Enjoy your favorite books, movies, and animated characters!</i></h4>
