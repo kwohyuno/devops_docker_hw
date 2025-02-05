@@ -1,7 +1,7 @@
-#Made Dockerfile in Backend
-#Made Dockerfile in Frontend
-#Made docker-compose file in root directory 
-#Now you can build and run the containers with the command "docker-compose up --build -d"
+#Made Dockerfile in Backend <br>
+#Made Dockerfile in Frontend <br>
+#Made docker-compose file in root directory <br>
+#Now you can build and run the containers with the command "docker-compose up --build -d" <br>
 
 
 
