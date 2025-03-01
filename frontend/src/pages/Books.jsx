@@ -10,6 +10,7 @@ useEffect(()=>{
 const fetchAllBooks = async ()=>{
     try {
       const res = await axios.get("http://localhost:8800/books")  
+      console.log("API response data:", res.data);
       setBooks(res.data)
       console.log(res)
     }catch(err){
